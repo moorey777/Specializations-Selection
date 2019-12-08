@@ -1,0 +1,15 @@
+C:\Users\61040\Desktop\WhichDirection-master\WhichDirection.Core\bin\Debug\WhichDirection.Core.dll.config
+C:\Users\61040\Desktop\WhichDirection-master\WhichDirection.Core\bin\Debug\WhichDirection.Core.dll
+C:\Users\61040\Desktop\WhichDirection-master\WhichDirection.Core\bin\Debug\WhichDirection.Core.pdb
+C:\Users\61040\Desktop\WhichDirection-master\WhichDirection.Core\bin\Debug\EntityFramework.dll
+C:\Users\61040\Desktop\WhichDirection-master\WhichDirection.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\61040\Desktop\WhichDirection-master\WhichDirection.Core\bin\Debug\WhichDirection.Domain.dll
+C:\Users\61040\Desktop\WhichDirection-master\WhichDirection.Core\bin\Debug\WhichDirection.Domain.pdb
+C:\Users\61040\Desktop\WhichDirection-master\WhichDirection.Core\bin\Debug\WhichDirection.Domain.dll.config
+C:\Users\61040\Desktop\WhichDirection-master\WhichDirection.Core\bin\Debug\EntityFramework.xml
+C:\Users\61040\Desktop\WhichDirection-master\WhichDirection.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\61040\Desktop\WhichDirection-master\WhichDirection.Core\obj\Debug\WhichDirection.Core.csprojResolveAssemblyReference.cache
+C:\Users\61040\Desktop\WhichDirection-master\WhichDirection.Core\obj\Debug\WhichDirection.Core.csproj.CoreCompileInputs.cache
+C:\Users\61040\Desktop\WhichDirection-master\WhichDirection.Core\obj\Debug\WhichDirection.Core.csproj.CopyComplete
+C:\Users\61040\Desktop\WhichDirection-master\WhichDirection.Core\obj\Debug\WhichDirection.Core.dll
+C:\Users\61040\Desktop\WhichDirection-master\WhichDirection.Core\obj\Debug\WhichDirection.Core.pdb
