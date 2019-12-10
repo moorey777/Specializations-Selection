@@ -1,2 +1,2 @@
-# Major-Selection
- A major selection system for CS department.
+# Specialization Selection System
+ A specialization register system for CS department.
