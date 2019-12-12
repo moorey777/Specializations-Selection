@@ -23,4 +23,4 @@
 * Display all students applications.
 * Search all applicants in a specialization.
 * Admit applicants by their grades and ranks.
-
+![images](https://github.com/Tyrannus-Moore/Specializations-Selection/blob/master/Images/demo.png)
