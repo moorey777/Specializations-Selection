@@ -1,5 +1,6 @@
 # Specialization Selection System
  A specialization register system for CS department.
+ ![images](https://github.com/Tyrannus-Moore/Specializations-Selection/blob/master/Images/demo.png)
 ## Student Management  
 * Import students information in an Excel to the Database.
 * Search students information via his ID/Name/Major.
@@ -23,4 +24,4 @@
 * Display all students applications.
 * Search all applicants in a specialization.
 * Admit applicants by their grades and ranks.
-![images](https://github.com/Tyrannus-Moore/Specializations-Selection/blob/master/Images/demo.png)
+
